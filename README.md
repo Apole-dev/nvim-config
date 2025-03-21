@@ -1,5 +1,6 @@
 **My Neovim Configuration :**
 
+
 This configuration is partially based on the setup by Hendrik Mi (https://github.com/hendrikmi).
 I have added custom configurations for auto-session management and STM32 Cortex-M debugging.
 
