@@ -55,6 +55,7 @@ require('lazy').setup({
   require 'plugins.auto-session',
   require 'plugins.cortex-debug',
   require 'plugins.cmake-tools',
+  require 'plugins.neocodeium',
 }, {
   ui = {
     -- If you have a Nerd Font, set icons to an empty table which will use the
